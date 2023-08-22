@@ -104,7 +104,7 @@ class MeetingNotificationBot extends TeamsActivityHandler {
                 height: "300",
                 width: "400",
                 title: "Targeted meeting Notification",
-                url: `${this.baseUrl}`
+                url: "https://tab-personal.azurewebsites.net" //`${this.baseUrl}`
               }
             }
           }

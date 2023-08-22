@@ -57,7 +57,8 @@
   ],
   "validDomains": [
     "*.ngrok-free.app",
-    "${{BOT_DOMAIN}}"
+    "${{BOT_DOMAIN}}",
+    "azurewebsites.net"
   ],
   "webApplicationInfo": {
     "id": "${{AAD_APP_CLIENT_ID}}",
